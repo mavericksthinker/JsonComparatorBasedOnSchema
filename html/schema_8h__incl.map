@@ -1,0 +1,24 @@
+<map id="sharedLib/include/rapidjson/schema.h" name="sharedLib/include/rapidjson/schema.h">
+<area shape="rect" id="node2" href="$document_8h.html" title="document.h" alt="" coords="621,169,712,196"/>
+<area shape="rect" id="node27" href="$pointer_8h.html" title="pointer.h" alt="" coords="631,95,703,121"/>
+<area shape="rect" id="node29" href="$stringbuffer_8h.html" title="stringbuffer.h" alt="" coords="268,244,367,271"/>
+<area shape="rect" id="node31" href="$regex_8h.html" title="internal/regex.h" alt="" coords="71,244,182,271"/>
+<area shape="rect" id="node3" href="$reader_8h.html" title="reader.h" alt="" coords="413,244,483,271"/>
+<area shape="rect" id="node11" href="$encodedstream_8h.html" title="encodedstream.h" alt="" coords="557,319,680,345"/>
+<area shape="rect" id="node12" href="$memorystream_8h.html" title="memorystream.h" alt="" coords="507,393,627,420"/>
+<area shape="rect" id="node13" href="$meta_8h.html" title="internal/meta.h" alt="" coords="782,319,890,345"/>
+<area shape="rect" id="node23" href="$strfunc_8h.html" title="internal/strfunc.h" alt="" coords="755,244,874,271"/>
+<area shape="rect" id="node4" href="$allocators_8h.html" title="allocators.h" alt="" coords="122,393,211,420"/>
+<area shape="rect" id="node9" href="$stream_8h.html" title="stream.h" alt="" coords="579,468,653,495"/>
+<area shape="rect" id="node14" href="$stack_8h.html" title="internal/stack.h" alt="" coords="118,319,229,345"/>
+<area shape="rect" id="node16" href="$strtod_8h.html" title="internal/strtod.h" alt="" coords="343,468,455,495"/>
+<area shape="rect" id="node22" href="$error_8h.html" title="error/error.h" alt="" coords="239,393,329,420"/>
+<area shape="rect" id="node5" href="$rapidjson_8h.html" title="common definitions and configuration " alt="" coords="447,617,532,644"/>
+<area shape="rect" id="node10" href="$encodings_8h.html" title="encodings.h" alt="" coords="703,543,795,569"/>
+<area shape="rect" id="node15" href="$swap_8h.html" title="swap.h" alt="" coords="5,468,69,495"/>
+<area shape="rect" id="node17" href="$ieee754_8h.html" title="ieee754.h" alt="" coords="549,543,627,569"/>
+<area shape="rect" id="node18" href="$biginteger_8h.html" title="biginteger.h" alt="" coords="254,543,343,569"/>
+<area shape="rect" id="node19" href="$diyfp_8h.html" title="diyfp.h" alt="" coords="368,543,429,569"/>
+<area shape="rect" id="node20" href="$pow10_8h.html" title="pow10.h" alt="" coords="454,543,525,569"/>
+<area shape="rect" id="node28" href="$itoa_8h.html" title="internal/itoa.h" alt="" coords="878,169,978,196"/>
+</map>
